@@ -1,0 +1,63 @@
+  												17 - Marzo - 2022
+--------------------------------------------------------------------------------------------------------------------
+
+********************************************************************************************************************
+
+
+
+	
+
+	- Clientes / booleano = si/no
+	- Código / string = 125
+	- Nombre / string = Luis
+	- Apellido / string = Rodriguez
+	- descripción / string = caja roja
+	- Precio / numérico = 12500
+	- dirección / string = cra 42 #47 
+	- #existencia 
+	- # telefónico / numérico = 31840
+	- Fecha / date = 17 - 03 - 2022
+	- Contactos / numérico = 31840
+	
+	
+	
+--------------------------------------------------------------------------------------------------------------------
+	
+	
+	
+	
+	- Codigo / String = P123
+	- Nombre / String = Luis 
+	- Apellido / String = Rodriguez
+	- Dirección / String = Carrera 44
+	- Teléfono / Int = 123456
+	- Especialidad / String = esto 
+	- # de ingresos / Int = 1
+	- # de habitación / Int = 05 
+	- Fecha de ingreso / Date = 17 - 03 - 2022
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+									

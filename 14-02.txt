@@ -1,0 +1,111 @@
+									14 - Febrero - 2022
+*********************************************************************************************
+				Requerimientos - Luis Becerra.
+*********************************************************************************************
+
+
+					Aprendizaje por repetición espaciada.
+
+1. Los sistemas de repetición espaciada se basan en el efecto de espaciado para aprender cosas de memoria. El efecto    de espaciado consiste en la idea de que las cosas se aprenden mejor a largo plazo si se hacen repetidamente, o se    repasan, durante un largo período de tiempo, dejando espacio entre ellas.
+
+	Dividir el conocimiento en pequeños elementos posibles.
+	Con todos los elementos asocian un E-factor igual a 2,5.
+	Repetir elementos utilizando los siguientes intervalos: I (1): = 1
+	I (2): = 6
+	para n> 2: I (n): = I (n-1) * EF
+	donde:	
+	I (n) - inter-repetición intervalo después de la n-ésima repetición (en días),
+	EF - E-Factor de un artículo dado
+	Si el intervalo es una fracción, alrededor de ella hasta el número entero más 		cercano.
+	Después de cada repetición evaluar la calidad de la respuesta repetición en 0-5 grado 	escala: 5 - perfecto 		respuesta
+	4 - respuesta correcta después de una vacilación
+	3 - correcta respuesta recordado con serias dificultades
+	2 - respuesta incorrecta; donde la correcta parecía fácil de retiro
+	1 - respuesta incorrecta; la correcta recordado
+	0 - apagón completo.
+	Después de cada repetición modificar el E-Factor del elemento recientemente repetida 		de acuerdo con la 			fórmula:	
+	EF ': = EF + (0,1- (5-q) * (0.08+ (5-q) * 0.02))
+	donde:
+	EF' - nuevo valor del factor E,
+	EF - antiguo valor del factor E,
+	q - calidad de la respuesta en la escala de 0-5 grado.
+	Si EF es inferior a 1,3 y luego dejar que sea EF 1.3.
+	Si la respuesta de calidad era inferior a 3 a continuación, iniciar repeticiones para 	el elemento desde el principio sin cambiar los (es decir, intervalos de uso I (1), I 		(2), etc., como si el artículo ha sido memorizada de nuevo) E-Factor.
+	Después de cada sesión de repetición de una repetición día dado de nuevo todos los 		elementos que a continuación anotó cuatro de la evaluación de la calidad. Continuar 		las repeticiones hasta que todos estos elementos marcar al menos cuatro.
+
+
+2. 
+
+
+---------------------------------------------------------------------------------------------
+
+
+	*Ojo con el front y back* 
+	
+	
+---------------------------------------------------------------------------------------------
+
+	
+	- Titulo.
+	- Planteamiento del problema o la necesidad.
+	- Objetivo general.
+	- Objetivos específicos.
+	- Alcance del proyecto.
+	- Bibliografia.
+	
+	
+---------------------------------------------------------------------------------------------
+
+
+	
+	1. Requisitos funcionales:
+			Deben además de brindarse ser prioridad.
+	
+		2. Requisitos NO funcionales: 
+			Condiciones o retricciones establecidos por el user.
+	
+		3. Requerimientos de información: 
+			Aunque hacen parte de los requerimientos funcionales es necesario 				separarlos, por buenas praxis.
+
+
+---------------------------------------------------------------------------------------------
+
+	- Identificación de actores: 
+
+	- ¿Qué espera el cliente que se le de?
+	
+	
+---------------------------------------------------------------------------------------------	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

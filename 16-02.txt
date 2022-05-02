@@ -1,0 +1,213 @@
+												16 - Febrero - 2022
+********************************************************************************************************************
+	               		   Algoritmos / Diagramas - Edwin Bustamante.		
+********************************************************************************************************************
+https://miro.com/welcomeonboard/bzFaM3RIakpoOHJsbUJLZDNXcTI0dlJVenRyRWNhdWpNS1BGYXM2Z3lTNUNISEd0OW9FUDdvMVltTVVaVG9ZbXwzNDU4NzY0NTE4NTcwODM0NTc4?invite_link_id=993328999813
+	
+	3.2 Elaborar un  ejemplo de un 
+
+
+
+
+	La informacion inicial y el análisis es fundamental para el desarrollo de problemas algoritmicos.
+
+	La seucencia lógica es sumamente importante, siempre guardando un sentido entre los antes y despues. Siempre 	bien estructurada.
+
+	Se hace necesaria la comprension algoritmica. Tanto así las bases y pasos, teniendo en cuentas las 		caracteristicas, elementos
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+	1. Plantear un problema.
+
+	2. Hacer un análisis.
+
+	3. Darle solución al problema.
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+	- Plantemiento del problema.
+		Correr (apartir de una posicion estática y prepado. Sólo tren inferior).
+	
+	- Solución del problema.
+		* Flexión de cuadriceps pierna derecha.
+		* Flexión de los musculos del core abdominales izquierdos.
+		* Contracción de los isquiotibiales pierna derecha.
+		* Contracción de los musculos del pie derecho.
+		* flexo extensión de los musculos del pie izquierdo.
+		* Punta de pie izquierdo.
+		* Contracción gemelo pie izquierdo.
+		* Apoyar el pie derecho en talón.
+		* Flexión de cuadriceps pierna izquierda.
+		* Flexión de los musculos del core abdominales derechos.
+		* Contracción de los Isquiotibiales pierna izquierda.
+		* Contracción de los musculos del pie izquierda.
+		* flexo extensión de los musculos del pie derecho.
+		* Punta de pie derecho.
+		* Contracción gemelo pie derecho.
+		* Apoyar el pie izquierdo en talón.
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+	Un algoritmo es un conjunto ordenado y finito de ordenes ejecutables.
+
+		- Entradas.
+		- Procesos.
+		- Salidas.
+
+	La sección de procesamiento es l parte medular del algoritmo.
+
+	No deben existir así ambiguedades, ser claro, evitando malas interpretaciones y/o espacios vacios.
+	
+	Se deben identificar todas y cada una de las respuestas y solucines.
+
+	
+--------------------------------------------------------------------------------------------------------------------
+
+
+	1.1 Definicion de algoritmos.
+	1.2 Definicion y solucion del problema.
+	1.3 Algoritmos cotidianos.
+	1.4 Lenguaje cocmparacón 
+		1.4.1
+	
+
+--------------------------------------------------------------------------------------------------------------------
+
+	Definición:
+		
+		Es una secuencia de operaciones detalladas y no ambiguias que al ejecutarse paso a paso condice a la 		solucion de problema planteado. Es decir un conjunto de reglas para resolver cierta clase de 		problemas
+
+		Es un conjunto de instrucciones sin perdida alguna y que se identifica a traves de sentencias 				detalladas, en orden para resolver un problemas especifico.
+
+		Pasos lógicos o secuenciales metódicamente dados para dar una solución.
+
+		El algoritmo no debe estar sometido al lenguaje, es decir independiente a lenguajes.
+		
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+	Resolucion del problema.
+			La resolucion del problema  requiere un diseño de un algoritmo. Guiandose siempre por los 			problemas, el diseño (dentro del que va el análisis y creacion del algoritmo) y programar.
+
+
+	Pasos para la resolucion de un problema
+		Diseño del algoritmo.
+		Expresar el algoritmo como programa.
+		Ejecutar.
+	
+
+		*******************************************************************
+		** Antes que un buen desarrollador hay que ser un buen analista. **
+		*******************************************************************
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+	Caracteristicas de los algoritmos.
+		- Un algoritmo debe ser preciso e indicar el orden de ejecución.
+		- Un algoritmo debe estar definido.
+		- Un algoritmo deber ser finito.
+		
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+	Clasifiación de los algoritmos.
+		- Secuenciales:
+			Hay una instruccion seguida de otra instrucción y la salida de la primera será la entrada de 			segunda.
+
+		- Condicionales:
+			* Simples: tiene una alternativa.
+			* compuestas: tiene más de una alternativa.
+
+		- Repetitivas:
+			Refiere a un proceso que se repite varias veces.
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+	Tipos de algoritmos.
+		* Cualitativos: describen pasos utilizando palabras.
+			Print = ("Clase de algoritmos")
+
+		* Cuantitativos:  Describe pasos utilizando cálculos numéricos.
+			Clase_de_algoritmos = 1 + 2
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+	Lenguajes algoritmicos.
+	Una serie de simbolos y reglas que se utilizan para describir una explícita.
+		* Gráficos: diagramas de flujo
+
+		* No gráficos: representa la forma descriptiva  de las operacines y normalmente se maneja en pseudo 		 	  código.
+		* Utilizar un lenguaje natural: es una forma de describir un algoritmo paso a paso.
+			/ Entrada: Medidas de la caja 
+			/ Procesos: proceso para calcular el area. 
+			/ salida: dato que se está calculando.
+
+		* Lenguaje simbólico: La representación lógica estructurada. Establece una forma precisa la 				  secuencia de los pasos.
+
+	
+--------------------------------------------------------------------------------------------------------------------
+
+
+	Ventajas de utilizar el lenguaje gráfico.
+		* Facilita la comunicacion entre programador y cliente.
+		* Facilita la detección de posibles errores.
+	
+	Es posible usar cierta cantidad de opradores en el lenguaje gráfico.
+		+ Suma.
+		- Resta.
+		* Multiplicación.
+		/ División.
+		< Menor que.
+		> Mayor que.
+	
+--------------------------------------------------------------------------------------------------------------------
+
+	Diagramas NS (Nassi-Schneiderman)
+		Es un lenguaje que convina la descripción textual con descripción gráfica.
+
+
+--------------------------------------------------------------------------------------------------------------------
+	
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

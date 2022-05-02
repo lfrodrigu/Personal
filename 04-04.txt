@@ -1,0 +1,45 @@
+  												   04 - Abril - 2022
+--------------------------------------------------------------------------------------------------------------------
+
+********************************************************************************************************************
+
+
+
+	Diagrama de clases.
+	
+	En UML, idima de creacion de diagramas:
+
+		- Comportamentales
+		- Estructurales o estáticos
+	
+	
+	Una clase debe ser creada por un rectangulo dividido en 3 
+		1. Class name = Entidades //siendo SIEMPRE la primera en minúscula
+		2. Propertis = Atributos 
+		3. Methods = Los metodos siempre se cierran con un "()"
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+	
+	
+	
+	Tarea.
+
+	Inventar cuales serían los metodos que se le pondrian al modelo conceptual de la tienda informática.
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+		

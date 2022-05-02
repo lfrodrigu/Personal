@@ -1,0 +1,212 @@
+									
+
+
+
+						ESTADISTICAS.
+
+	Estadistica descriptiva:Se dedica a los modelos de recolección, visualización y 	resumen de datos originarios de los fenómenos de estudios de campo, sea documentado o 	de diversos tipos.
+
+	Estadistica inferncial: Generacion de modelos, predicciones asociados a los 	fenómenos.
+
+
+						
+			
+						actividad.
+
+
+	Clasificiar la población del ambiente, incluidas las variables
+
+
+	22 aprendices.
+
+
+
+		- 1 Instructor.
+	
+		- 22 toma corriente.
+
+		- 23 entradas de ether.
+
+		- 23 sillas rodachines.
+	
+		- 2 sillas estáticas.
+
+		- 3 crespos.
+	
+		- 1 Afro.
+
+		- 6 risados.
+	
+		- 12 lisos.
+
+		- 6 tapabocas desechables.
+	
+		- 17 tapabocas lavables.
+	
+		- 11 equipos.
+	
+		- 11 mouses.
+		
+		- 11 padmouses
+
+		- 11 teclados.
+
+		- 1 aire acondicionado.
+
+		- 1 cortina.
+
+		- 2 cajones.
+
+		- 1 TV.
+
+		- 1 alcohol.
+
+		- 23 mesas.
+
+		- 1 dispensador de toallas desechables.
+
+		- 0 toallas desechables.
+
+		- 1 portatil.
+
+		- 7 gafas.
+
+		- 5 mujeres.
+
+		- 18 hombres.
+
+		- 1 tablero.
+
+
+---------------------------------------------------------------------------------------------
+	
+	
+	Moda: Dato más repetido en la población
+
+	Promedio: suma de las cantidades de la poblacion dividido en la cantidad de la 		  población.
+
+
+---------------------------------------------------------------------------------------------
+
+	
+				Aplicaciónes.
+
+	1. Determinar la moda y el promedio de los siguentes ejercicio 
+
+		a. 1, 2, 3, 4, 5, 3, 7, 4 ,8 ,10 ,3 ,5 ,10
+			R/ Moda
+			   3
+			   5
+			   4
+			   10
+			  
+			   
+			   Promedio
+			   65/13
+			   = 5
+			
+		
+		b. Ω = 0
+		     = 7
+		     = 9 
+		   π = 3.1416
+		     = 10
+			R/ Moda
+			   No tiene
+
+			   Promedio
+			   29.1416/5
+			   = 5.8
+
+		c. 10000, 10, 100, 1000
+			R/ Moda
+			   No tiene.
+			   
+			   Promedio
+			   11110/4
+			   = 2.7
+
+			
+		c. 300, 100, 400, 300, 200, 200, 100, 300, 300, 40
+			R/ Moda 
+			   300
+			   200
+			   100
+
+			   Promedio
+			   2240/10
+			   = 224
+
+
+---------------------------------------------------------------------------------------------
+
+
+				Aplicaciones 2.
+
+	1.  Lista de precios x kilo de 15 frutas.
+				
+		Arándanos: 33.580
+		Papaya llanera: 5040
+		Piña: 3520
+		Fresa: 15580
+		Melón: 4950
+		Maracuyá: 6490
+		Mango: 6140
+		Uchuva: 10720
+		Frambuesa: 13192
+		Kiwi: 17590
+		Murrapo: 4380
+		Naranja: 6490
+		Papaya melona: 5040
+		Coco: 7920
+		Uva isabella: 6300
+			R/ Moda
+			   = 5040
+
+			   Promedio
+			   = 9795.5
+
+			   Maximo
+			   = 17590
+
+			   Mínimo
+			   = 3520
+	
+		
+	2. 10 articulos de aseo, precio.
+		Blanqueador 1800ml: 10390
+		Limpia Pisos Ajax x3L: 20.990
+		Desinfectante Lysol: 15590
+		Limpia juntas: 2050
+		Desengrasante: 4190
+		Limpiavidrias: 4190
+		Toallas Clorox: 9353
+		Desinfectante blancox: 10792
+		Toalla de cocina: 4190
+		Cepillo para pisos: 12390
+			R/ Moda
+			   = 4190
+
+			   Promedio
+			   = 9412.5
+
+			   Maximo
+			   = 15590
+
+			   Mínimo
+			   = 2050
+		
+
+
+
+	3. 10 cortes en res, pollo o cerdo.
+
+		Bola30340
+
+
+
+
+
+
+		
+	

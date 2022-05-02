@@ -1,0 +1,221 @@
+									09 - Febrero - 2022
+*********************************************************************************************
+			Edwin Bustamante Marin - Algoritmos y Diagramas.
+---------------------------------------------------------------------------------------------
+
+
+				Teoria general de sistemas.
+
+	¿Que importancia tiene el hecho de comprender la teoría general de sistemas?
+
+	Entrada - procesamiento - salida
+
+	.- Al comprender la teoría, mejoramos la objetividad dando una estructura y mejorando 	   la eficiencia eficiencia -.
+
+
+---------------------------------------------------------------------------------------------
+
+
+				Teoría General de Sistemas (TGS)
+
+	1. ¿Qué es? 
+		- Se refiere al estudio de todos los sistemas en general, desde una 		  		  pesrspectiva interdiciplinaria 
+			
+		- Identificar los elementos que conforman ese sistema, es decir, cualquier 		  	  entidad claramente definida y se basa en el enfoque sistemático.
+		  
+
+	**************************************************************************
+	** Nota: Enfoque sistemático: 						**
+	** Expresa que para que algo sea considerado sistema debe constar de 	**
+	** varias partes pero todas relacionadas y con un objetivo en común.	**			**									**
+	** Debe entonces verse afectado todo el sistema por la afectación de un **
+	** elemento.								**
+	** Debiendo hacer una diferenciacion entre lo general y lo particular	**
+	**									**
+	**	Estructural: identificación del sistema detallando componentes, **
+	**		     la estructura y sus funciones.			**
+	**	Integral: consiste en la evalución del funcionamiento, 		**
+	**		  pertinencia de sus elementos, evaluando aspectos como:**
+	**		  rendimiento, entropía y efectividad.	 		**
+	**************************************************************************	
+
+		  Sin embargo no siempre se pueden identificar los terminos, motivo por el 		   	  cual se adopta el termino de caja negra.
+
+	**************************************************************************
+	** Nota: Caja negra							**
+	** Cuando el sistema es impenetrable y/o inaccesibles			**
+	**************************************************************************
+
+		- Los sistemas están relacionados y vinculados pero no unidos con su entorno, 		  de tal manera que lo puede afectar y de la misma manera el sistema responde 		  y se adapta al mismo.
+
+		- Permite la facultad de describir y debatir situaciones particulares de el 			  sistema. De la misma forma el sistema adopta un lenguaje propio.
+
+*VIDEO*
+
+Estructura y propiedades
+
+Mira el mundo en relaciones e integraciones, enfatiza en los principios de organización.
+
+No reduce en partes, entiende un undividuo como un todo.
+
+  
+	Ludwin Von Bertalaniffy (1901)- Precursor de de la teoría general de sistemas.
+
+
+Desarrollando la teoría apartir de la premisa:
+
+	- Los sistemas existen dentro de otro sistema.
+
+	- Los sistemas son abiertos.
+
+	- Las funciones dependen de su estructura.
+
+
+					*Niveles.*
+
+	- Sistemas: La totalidad el sistema.
+
+	- subsistema: los componentes.
+
+	- Suprasistema: el entorno.
+
+
+					*Imagen*
+				*Componentes del sistema*
+
+
+	- Medio ambiente: 
+		todo lo que rodea al sistema.
+				- Ambiente interno.
+
+				- Ambiente externo: 
+
+
+	- Retroalimentación: 
+		conversión de la obtención de los inputs  
+
+	- Inputs: 
+		entradas de cualquier tipo de interación al sistema.
+
+	- Traformadores o procesafores: 
+		Mecanimos que convierten los inputs en outputs, procesandolos. 
+
+	- Outputs: 
+		lo que sale del sistema al suprasistema como resultado de la transformación o 		procesamiento.
+
+
+
+		
+				*Caracteristicas de un sistema.*
+
+	- Totalidad: 
+		las caracteristicas individuales trascienden a la totalidad del 				subsistema.
+
+	- Sinergia: 
+		Un cambio en cualquiera de las partes afecta a todas las demas.
+
+	- Entropia:
+		Los sistemas tienden a conservar su identidad.
+
+	- Equifinidad: 
+		Se adaptan a los cambios.
+
+	- Equipotencialidad: 
+		Permite a partes restantes asumir las funciones de las partes extintas.
+
+	- Finalidad: 
+		Los sistemas comparten metas comunes.
+	
+	- Retroalimentación: 
+		Los sistemas sostienen constantemente un intercambio de la información con el 		medio.
+
+	- Homeóstesis:
+		Todo sistema tiende a mantenerse estable.
+
+
+				*Tipos de sistemas.*
+
+
+	- Sistemas abiertos: 
+		Comparten energia e información constante con el medio.
+
+	- Sistemas cerrados: 
+		Casi siempre son sistemas ideales, no comparte energia ni información con el 		ambiente.
+
+	- Sistemas semiabiertos o semicerrado: 
+		Comparten parcialmente o muy poco energía o información.
+
+---------------------------------------------------------------------------------------------
+
+
+					Actividad 2.
+
+Sistema solar.
+	- Insumos: hidrógeno.
+	- Producto: energía calórica
+	- Proceso: agitación moleular
+	- tipo de sistema: Abierto
+
+Cuerpo humano.
+	- Insumos: sacarosas.
+	- Producto: carga calórica
+ 	- Proceso: hidrolisis 
+	- tipo de sistema: Abierto
+
+
+---------------------------------------------------------------------------------------------
+
+
+					Actividad 3.
+
+	Plan concertado de trabajo.
+		
+		Diseñar un mapa conseptual donde se evidencie lo aprendido sobre la teoria 		general de sistemas, con todo los tipos de elementos, creador, complejidad, 		elementos, etc	
+
+		Herramientas: lo que se le de la gana.
+
+		Apoyo: "diagramación de procesos"
+
+
+---------------------------------------------------------------------------------------------
+
+		
+					Actividad 3.1.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ebusta@misena.edu.co

@@ -1,0 +1,69 @@
+												   18 - Abril - 2022
+--------------------------------------------------------------------------------------------------------------------
+
+********************************************************************************************************************
+
+	- Public (+): el atributo será visible dentro y fuera de la clase. Es decir, es accesible desde todos lados.
+	
+	- Private (-): solo puede ser accesible dentro de la clase, solo sus métodos puede acceder.
+	
+	- Protected (#): no será accesible desde fuera de la clase pero sí por metodos de la clase o submetodos o 		derivados de ellos por herencia
+	
+	Sin modificador ( ) el atributo será visible dentro y fuera de la clase. Es decir, es accesible desde todos 		lados.
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+	Tipos de relaciones.
+
+	Se pueden dar por herencia, asociación, agregación, composición y dependencia.
+
+	- Herencia (Especialización / generalización):
+		
+		La herencia se especifica con una flecha sin relleno
+	
+	
+	- Composición (por valor): Relacion estática donde el tiempo de vida del objeto incluido está condicionado 	por el tiempo de vida del que lo incluye. Una parte de todo
+		
+		Se representa con un rombo relleno. 
+	
+	- Agregación (por referencia): Es una relacion dinámica donde el tiempo de vida del objeto incluido está 		condicionado por el tiempo de vida del que lo incluye. 
+	
+	- Asociación: modelo entidad relacion y cardinalidad.
+	
+	- Dependecia: una clase es instanciada (su instanciación dependiente de otro objeto/clase)
+
+					*****************
+					**instanciación**
+					*****************
+	
+	
+	Composicion
+	Agregacion:
+	Asociacion: 
+	Dependiencia: "---->"
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

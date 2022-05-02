@@ -1,0 +1,175 @@
+												17 - Febrero - 2022
+********************************************************************************************************************
+					Estadistica - Carlos
+********************************************************************************************************************
+
+
+	Mediana: Indica que apartir de ese valor los demáss son valores o menores respectivamente.
+
+	Población: lo es todo.
+	
+	Muestra: una fracción.
+
+--------------------------------------------------------------------------------------------------------------------
+
+						Actividad 2.
+
+	1. Motos de las primeras 10 marcas.
+		- Valor
+		- Cilindraje (Entre 125-220)
+	2. Bluyineria.
+		- 10. 
+		- Precio. 
+
+	3. Calzado tenis deportivos para atletismo.
+		- 10
+		- Precio.
+
+	4. Tatuajes.
+		- Promedio.
+		- Precio.
+
+
+
+						Solución.
+
+	1. - 	* Nombre: SZ RR
+		* Cilindraje: 149
+		* Precio: 7500000
+		* Yamaha
+
+	   - 	* Nombre: FZ VESIÓN 2
+		* Cilindraje: 149 
+		* Precio: 9100000
+		* Yamaha
+
+
+	   - 	* Nombre: ADDRESS FI
+		* Cilindraje: 133 cm³
+		* Precio: 6989000
+		* Suzuki
+
+
+	   - 	* Nombre: ACCESS 125 FI
+		* Cilindraje: 125 cm³
+		* Precio: 7467000
+		* Suzuki
+
+	   - 	* Nombre: NEW BEST 125 FI
+		* Cilindraje: 125 cm³
+		* Precio: 8,580,000
+		* Suzuki
+
+	   - 	* Nombre: VICTORY MRX 125 CAMO
+		* Cilindraje: 125 cc
+		* Precio: 6999000
+		* Victory
+
+	   - 	* Nombre: VICTORY BLACK PACK
+		* Cilindraje: 171,7 cc
+		* Precio: 10.599.000
+		* Victory
+
+	   - 	* Nombre: VICTORY BOLD
+		* Cilindraje: 125.6 cc
+		* Precio: 6.999.000
+		* Victory
+
+	   - 	* Nombre: CBI125F
+		* Cilindraje: 125.7 cc
+		* Precio: 6.450.000
+		* Honda
+
+	   - 	* Nombre: X-Blade 160 2023
+		* Cilindraje: 162.71 cc
+		* Precio: 9.900.000
+		* Honda
+
+
+
+
+	2. -	* Nombre: Falda de jean
+		* Precio: 74,900 
+		* Marca: Estudio F
+	   
+
+	   -	* Nombre: Short denim tiro alto
+		* Precio: 74,900 
+		* Marca: Estudio F
+
+	   -	* Nombre: Jean jogger
+		* Precio: 79,900
+		* Marca: Estudio F
+
+	   -	* Nombre: Jean curvy
+		* Precio: 39,900
+		* Marca: Koaj
+
+	   -	* Nombre: Jean push up
+		* Precio: 39,900
+		* Marca: Koaj
+
+	   -	* Nombre: Jeans paper bag
+		* Precio: 44,950
+		* Marca: Koaj
+
+	   -	* Nombre: Jean Azul GAP
+		* Precio:  110.900
+		* Marca: Dafiti
+
+	   -	* Nombre: Jean Para Mujer Azul Medio MP
+		* Precio: 59.499
+		* Marca: Dafiti
+
+	   -	* Nombre: Jean Azul Mattelsa
+		* Precio: 82.000
+		* Marca: Dafiti
+
+	   -	* Nombre: RETROJEAN TIRO SUPER ALTO
+		* Precio:  129.900
+		* Marca: Stopjeans
+
+
+
+
+	3. -	* Nombre: Nike ZoomX Vaporfly Next% 2
+		* Precio: 1.009.706,74
+		* Marca: Nike
+
+	   -	* Nombre: Nike ZoomX Dragonfly Bowerman Track Club
+		* Precio: 640.704,47
+		* Marca: Nike
+
+	   -	* Nombre: Nike Zoom Fly 4
+		* Precio: 660.125,64
+		* Marca: Nike.
+
+	   -	* Nombre: Tenis de Running UA FLOW Velociti Wind para Hombre
+		* Precio: 719.900
+		* Marca: underarmour
+
+	   -	* Nombre: Tenis de Running UA HOVR Phantom 2 INKNT para Hombre
+		* Precio: 649.9000
+		* Marca: underarmour
+
+	   -	* Nombre: Tenis de Running UA HOVR Machina 2 CLRSHFT para Hombre
+		* Precio: 589.900
+		* Marca: underarmour
+
+	   -	* Nombre: Liberate NITRO Women's Running Shoes
+		* Precio:  433.770,70
+		* Marca: Puma
+
+	   -	* Nombre: Deviate NITRO Men's Running Shoes
+		* Precio: 630939,20
+		* Marca: Puma
+
+	   -	* Nombre: Eternity NITRO Women's Running Shoes
+		* Precio: 473.204,40
+		* Marca: Puma
+
+	   -	* Nombre: Tenis Zig Dynamica
+		* Precio:  319.990
+		* Marca: Rebook
+
+

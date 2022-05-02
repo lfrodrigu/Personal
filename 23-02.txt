@@ -1,0 +1,319 @@
+									23 - Febrero - 2022
+---------------------------------------------------------------------------------------------
+
+		
+					Tipos de variables.
+
+	1. Variable numérica (enteras, reales)
+	
+	2. Alfanuméricos:
+		a. Caracteres alfanuméricos.
+		b. Dígitos.
+		c. Caracteres especiales.
+
+	3. Variables lógicas.
+
+	4. Variable tipo contador:
+		i = i + 1
+		i = i - 1
+	
+	5. Variable de tipo acumulador:
+		acumulador = acumulador + valor_variable
+	
+	
+---------------------------------------------------------------------------------------------
+	
+	
+					Actividad.
+
+	1.Realizar un algoritmo que permita mostrar por pantalla el mensaje "ADSI - Ficha 	  2472769"
+	  
+		Inicio
+	
+			Mostrar ("ADSI - Ficha 2472769");
+	  
+		Fin
+	
+
+---------------------------------------------------------------------------------------------
+
+
+
+	
+	2. Realizar un algoritmo que permita mostrar su número de documento, nombres y 	   apellidos. Edad, estatura y género
+	
+		Inicio
+			
+			Mostrar ("CC. 1005839452" \n + "Nombres: Luis Fernando" \n 			+ "Apellidos: Rodriguez Cardona" \n + "Edad: 19" \n + "Estatura: 1.72 			cm" \n + "Género: Masculino");
+			
+		Fin
+
+
+---------------------------------------------------------------------------------------------
+
+
+	
+	   2.1 Realizar un algoritmo que pida y permita mostrar número de documento, nombres, 	       apellidos. Edad, estatura y género
+	
+		Inicio
+
+
+			Vartex = dato_1
+			Vartex = dato_2
+			Vartex = dato_3
+			Varnum = dato_4
+			Varnum = dato_5
+			Vartex = dato_6	
+		
+			Mostrar ("Inserte su tarjeta de identidad");
+			Leer dato_1;
+
+			Mostrar ("Inserte sus nombres");
+			Leer  dato_2;
+
+			Mostrar ("Inserte sus apellidos");
+			Leer dato_3;
+
+			Mostrar ("Inserte su edad");
+			Leer dato_4;
+
+			Mostrar ("Inserte su estatura");
+			Leer dato_5;
+
+			Mostrar ("Inserte su género");
+			Leer dato_6;
+
+			Mostrar ("CC: " + dato_1);
+
+			Mostrar ("Nombres: " + dato_2);
+
+			Mostrar ("Apellidos: " + dato_3);
+
+			Mostrar ("Edad: " + dato_4);
+
+			Mostrar ("Estatura: " + dato_5);
+
+			Mostrar ("Género: " + dato_6);
+			
+
+		Fin
+
+	
+---------------------------------------------------------------------------------------------
+
+
+	
+	3. Realizar un algoritmo que permita mostrar los primeros 5 números naturales pares
+
+		Inicio
+			
+			Mostrar ("Los cinco primeros números naturales son: 2, 4, 6, 8, 10");
+
+		Fin
+
+
+	4. Realizar un algoritmo que permita mostrar la suma de los primeros 6 números 	   	   primos.
+			
+		Inicio 
+
+			Suma = 2 + 3 + 5 + 7 + 11 + 13
+			Mostrar("La suma de los primeros números primos es igual a: " + suma)
+
+		Fin
+		
+	
+	5. Realizar un algoritmo que permita capturar y mostrarla edad y promedio de edad de 		3 usuarios en el sistema+
+
+
+
+		Inicio
+			
+			varnum = user_1, user_2, user_3
+
+			Mostrar ("Ingresar edad user 1");
+			Leer user_1;
+			Mostrar ("Ingresar edad user 2");
+			Leer user_2;
+			Mostrar ("Ingresar edad user 3");
+			Leer user_3;
+
+			Promedio = (user_1 + user_1 + user_1) / 3
+			
+			Mostrar ("La edad user 1: " + user_1);
+
+			Mostrar ("La edad user 2: " + user_2);
+
+			Mostrar ("La edad user 3: " + user_3);
+
+			Mostrar ("El promedio es" + Promedio);
+
+		Fin
+
+
+	
+	6. Realizar un algoritmo que permita hallar y mostrar el perimetro de un circulo.
+		
+		Inicio
+
+			Perímetro = 2 *(3.1416) * 10
+			Mostrar ("El perímetro de un circulo con radio 10 es de: " + 				Perimetro);
+
+		Fin
+
+
+
+
+
+
+	7. Realizar un algoritmo que permita calcular el perimetro de un circulo cuyo 	   diametro será leido e ingresado por consola
+
+		Inicio
+
+			Mostrar ("Ingrese el diametro del circulo");
+			Leer diametro;
+			radio = diametro / 2 
+			Perímetro = 2 *(3.1416) * radio
+			Mostrar ("El perímetro de un circulo con radio 10 es de: " + 						Perimetro);
+
+		Fin
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+				Estructuras selectivas.
+	
+	Estructuras logicas que ejecutan decisiones mediante descartes, dependediendo de su 	funcionamiento, de tal manera que, permita al algoritmo tomar decisiones lógicas y 	ordenadas. Dentro de las estructuras selectivas se encuentran:
+	
+	
+		1. Estructuras simples:
+			Es una decisión que se comprueba con tan solo un descarte, es o no.
+				If = algo{
+				  acción lógica  
+				};
+
+		2. Estructuras dobles:
+				If = algo{
+				  acción lógica  
+
+				Else
+				  Acción lógica en caso de contrariar el primer descarte
+				
+				};
+			
+		3. Estructuras en cascada:
+				If = algo{
+				  acción lógica 
+					If = algo{
+				  	  acción lógica solo en caso de que no contrarial el 					 	  primer descarte
+					};
+
+				Else
+				  acción lógica en caso de contrariar el primer descarte
+
+					If = algo{
+				  	  acción lógica solo en caso de que contrarial el 					 	  primer descarte
+					};
+				};
+				
+				
+
+		4. Multiple o switch: 
+
+			Plantea una multiplicidad de casos posibles, la cual debe encontrar 			una solucion y descarte lógico.
+
+				
+				switch(variable)
+					caso 1 : acción por ejecutar 1;
+					descanso;
+					caso 2 : acción por ejecutar 2;
+					descanso;
+					caso 3 : acción por ejecutar 3;
+					descanso;
+					caso 4 : acción por ejecutar 4;
+					descanso;
+
+
+
+---------------------------------------------------------------------------------------------
+		
+
+
+	8. Realizar un algoritmo que permita leer un número, determinar si el número leido es 	positivo o negativo.
+
+
+
+		Inicio
+
+			varnum = numero_dado
+			Mostrar ("Ingrese un número")
+			leer numero_dado
+
+			if numero_dado >= 0 {
+				Mostrar ("El número ingresado es positivo");
+
+			else
+				Mostrar ("El número es negativo");
+			  			
+			};
+
+		Fin
+
+
+---------------------------------------------------------------------------------------------
+
+
+	9. Realizar un algoritmo que permita leer una edad, determinar y mostrar si es mayor 	de edad.
+
+		Inicio
+
+			varnum = edad_dada
+			Mostrar ("Ingrese su edad");
+			leer edad_dado
+
+			if edad_dado >= 18 {
+				Mostrar ("es usted mayor de edad");
+
+			else
+				Mostrar ("es usted menor de edad");
+			  			
+			};
+
+		Fin
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+
+	9. Realizar un algoritmo que permita leer una edad, determinar y mostrar si es mayor 		de edad.
+
+		Inicio
+
+			varnum = edad_dada
+			Mostrar ("Ingrese su edad");
+			leer edad_dado;
+
+			if edad_dado >= 18 {
+				Mostrar ("es usted mayor de edad");
+
+
+			else
+				if edad_dado <= 0 {
+				Mostrar ("Error, la edad no puede ser igual o menor a 						0");
+				};
+				Mostrar ("es usted menor de edad");
+				if edad_dado <= 0 {
+
+			  			
+			};
+
+		Fin
+
+
+
+
+
+

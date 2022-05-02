@@ -1,0 +1,138 @@
+									    14 - Marzo - 2022
+---------------------------------------------------------------------------------------------
+				Requerimientos - Luis Becerra.
+*********************************************************************************************
+	
+		
+	Los datos por si mismos no dice nada, la información sí 
+
+
+	El dato es la unidad mínima de la información
+	
+	
+	
+	
+	
+	
+	
+	
+		   
+		   │ cc  │ Nombre │ Ci. naci │ Jabon │
+		   ----------------------------------- 	
+	Registro ->│ 321 │ Camila │ Medellín │ J2    │
+		   -----------------------------------
+		   │ 721 │ Luis   │ Sahagun  │ Axion │
+		   -----------------------------------
+			      Entidad 
+	
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+	1. Haga una lista de 4 datos de su rutina diaria y construya informacion con esos 4 	   	   datos.
+		
+		- 2
+		
+		- 5:30 am
+		
+		- 5:00 am
+	
+		- 2
+
+	
+		Información.
+
+		Me despierto a las 5:00 am, me cepillo 2 veces en la mañana; una al pertarme 			y otra luego de desayunar. Mi desayuno siempre son 2 huevos, y me baño 				alrededor de las 5:30 am	
+	
+	2. Escriba un concepto elaborado por usted acerca de bases de datos relacionales
+		
+		Todo aquello que permite la acumulacion de datos de tal manera que permita la 		integracion, analisis y procesamiento de esos mismos datos
+
+
+---------------------------------------------------------------------------------------------
+	
+	
+	
+	
+	
+      │  Nombre  │ Apellido │ estado civil │ Barriorec │ Declara ren │   Nacimiento   │
+      ---------------------------------------------------------------------------------
+      │ Luis     │ Rodriguez│   Soltero    │ Asturias  │     Sí      │ 05 - 10 - 2002 │
+      ---------------------------------------------------------------------------------
+      │ Fernando │ Cardona  │   Soltero    │ Poblado   │     No      │ 02 - 06 - 1999 │
+      ---------------------------------------------------------------------------------
+      │ Andres   │ Trijillo │   Casado     │ Naranjos  │     Sí      │ 15 - 02 - 2001 │
+      ---------------------------------------------------------------------------------
+      │ Juan     │ Cardona  │   Casado     │ Calatrava │     Sí      │ 27 - 02 - 2003 │
+      ---------------------------------------------------------------------------------
+      │ Sebastian│ Rodriguez│ Union libre  │ Rosario   │     No      │ 30 - 12 - 2000 │
+      ---------------------------------------------------------------------------------
+	
+	
+	
+---------------------------------------------------------------------------------------------
+
+
+	Los datos tienen:
+
+	1. Nombre.
+	2. Tipo de dato.
+	3. Valor.
+
+
+	La informacion es un conjunto de datos de manera organizada y procesada. Luego de un 		conjunto de datos y el análisis del mismo
+	
+
+
+---------------------------------------------------------------------------------------------
+
+	
+	Tipos de dato.
+	
+	1. Numérico - entero.
+	
+	2. Caracter - String - Cadena tex.
+
+	3. Booleanos.
+
+	4. Float.
+	
+	5. Date.
+
+ 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
